@@ -131,7 +131,7 @@ int main()
 	else if (grade == 1)
 		cout << "Well you can always try again later!";
 	else if (grade == 0)
-		cout << "I don't know how you manage to di it, but you did... you smart man";
+		cout << "I don't know how you manage to di it, but you did... you smart smart man";
 	else
 		cout << "Well done!";
 
